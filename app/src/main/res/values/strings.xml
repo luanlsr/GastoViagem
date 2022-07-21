@@ -9,4 +9,6 @@
     <string name="price_per_liter">Preço por litro</string>
     <string name="km_per_liter">km por litro</string>
     <string name="calculate">calcular</string>
+    <string name="validation_fill_all_fields">Preencha todos os campos</string>
+
 </resources>
